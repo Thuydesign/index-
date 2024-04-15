@@ -1,1 +1,5 @@
-# index-
+streamlit
+pandas
+numpy
+plotly
+matplotlib
